@@ -25,16 +25,17 @@ The agent uses **rule-based NLP with regex pattern matching** to:
 
 
 &#x20;Project Structure
+```
 fnol-agent/
 ├── agent.py          # Core extraction + routing logic
 ├── app.py            # Streamlit web UI
 ├── requirements.txt  # Dependencies
-├── sample\_docs/      # 5 sample FNOL documents
-│   ├── fnol\_001\_fast\_track.txt
-│   ├── fnol\_002\_missing\_fields.txt
-│   ├── fnol\_003\_specialist\_queue.txt
-│   ├── fnol\_004\_standard.txt
-│   └── fnol\_005\_health.txt
+├── sample_docs/      # 5 sample FNOL documents
+│   ├── fnol_001_fast_track.txt
+│   ├── fnol_002_missing_fields.txt
+│   ├── fnol_003_specialist_queue.txt
+│   ├── fnol_004_standard.txt
+│   └── fnol_005_health.txt
 └── outputs/          # JSON results saved here
 ```
 
