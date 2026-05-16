@@ -95,9 +95,6 @@ python agent.py sample\_docs/\*.txt
 ```bash
 streamlit run app.py
 ```
-
-Open [http://localhost:8501](http://localhost:8501) in your browser.
-
 \---
 
 ## &#x20;Output Format
