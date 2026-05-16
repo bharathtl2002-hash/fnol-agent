@@ -1,17 +1,10 @@
-"""
-Autonomous Insurance Claims Processing Agent
-Extracts fields from FNOL documents, identifies missing fields,
-classifies claims, and routes to the correct workflow.
-"""
-
 import json
 import re
 import os
 import sys
 from pathlib import Path
 
-
-# ── Routing Rules ────────────────────────────────────────────────────────────
+# ── Routing Rules
 
 FRAUD_KEYWORDS = ["fraud", "inconsistent", "suspicious", "fabricated", "false"]
 FAST_TRACK_THRESHOLD = 25000  # ₹25,000
@@ -24,7 +17,7 @@ MANDATORY_FIELDS = [
 ]
 
 
-# ── Field Extraction ──────────────────────────────────────────────────────────
+# ── Field Extraction
 
 def extract_fields(text: str) -> dict:
     """Extract structured fields from raw FNOL text using pattern matching."""
@@ -177,7 +170,7 @@ def process_file(filepath: str) -> dict:
     return process_fnol(text, filename=path.name)
 
 
-# ── CLI Entry Point ───────────────────────────────────────────────────────────
+# ── CLI Entry Point
 
 def main():
     if len(sys.argv) < 2:
@@ -209,7 +202,7 @@ def main():
     out_path.parent.mkdir(exist_ok=True)
     with open(out_path, "w") as f:
         json.dump(results, f, indent=2)
-    print(f"\n✅ Results saved to {out_path}")
+    print(f"\n Results saved to {out_path}")
 
 
 if __name__ == "__main__":
