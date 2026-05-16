@@ -1,0 +1,29 @@
+FIRST NOTICE OF LOSS (FNOL) - CLAIM FORM
+==========================================
+
+Policy Information:
+Policy Number: POL-2024-78432
+Policyholder Name: Rajesh Kumar
+Effective Dates: 01-Jan-2024 to 31-Dec-2024
+
+Incident Information:
+Incident Date: 14-May-2026
+Incident Time: 09:30 AM
+Location: MG Road, Bengaluru, Karnataka
+
+Description: While parking near MG Road metro station, the rear bumper of my vehicle was scratched by an unknown vehicle. Minor damage to the bumper paint and rear sensor.
+
+Involved Parties:
+Claimant: Rajesh Kumar
+Third Parties: Unknown vehicle (hit and run)
+Contact Details: 9876543210 | rajesh.kumar@email.com
+
+Asset Details:
+Asset Type: Four-Wheeler (Car)
+Asset ID: KA-01-MF-4521
+Estimated Damage: 18000
+
+Other Mandatory Fields:
+Claim Type: Motor - Own Damage
+Attachments: photos_damage_001.jpg, photos_damage_002.jpg
+Initial Estimate: 18000

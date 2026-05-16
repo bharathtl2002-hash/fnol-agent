@@ -1,0 +1,29 @@
+FIRST NOTICE OF LOSS (FNOL) - CLAIM FORM
+==========================================
+
+Policy Information:
+Policy Number: POL-2024-92100
+Policyholder Name: Mohammed Irfan
+Effective Dates: 01-Jun-2024 to 31-May-2025
+
+Incident Information:
+Incident Date: 08-May-2026
+Incident Time: 06:00 AM
+Location: Manipal Hospital, Bengaluru
+
+Description: Policyholder was admitted to Manipal Hospital following a road accident. Sustained fractures in left leg and right arm. Surgery performed on 09-May-2026. Expected discharge by 20-May-2026.
+
+Involved Parties:
+Claimant: Mohammed Irfan
+Third Parties: N/A
+Contact Details: 9000011223 | irfan.m@email.com
+
+Asset Details:
+Asset Type: Health (Personal Injury)
+Asset ID: HEALTH-2026-00987
+Estimated Damage: 320000
+
+Other Mandatory Fields:
+Claim Type: Health - Hospitalization
+Attachments: hospital_bills.pdf, discharge_summary.pdf, doctor_certificate.pdf
+Initial Estimate: 320000

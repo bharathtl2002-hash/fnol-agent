@@ -1,0 +1,29 @@
+FIRST NOTICE OF LOSS (FNOL) - CLAIM FORM
+==========================================
+
+Policy Information:
+Policy Number: POL-2024-11203
+Policyholder Name: Arun Mehta
+Effective Dates: 15-Mar-2024 to 14-Mar-2025
+
+Incident Information:
+Incident Date: 05-May-2026
+Incident Time: 11:45 PM
+Location: Outer Ring Road, Bengaluru
+
+Description: Vehicle allegedly stolen from parking lot. Claimant states he parked the car at 8 PM and returned at midnight to find it missing. However, witness reports are inconsistent with the claimant's version of events. GPS data from the vehicle suggests it was moved earlier in the evening.
+
+Involved Parties:
+Claimant: Arun Mehta
+Third Parties: None
+Contact Details: 9123456780 | arun.mehta@mail.com
+
+Asset Details:
+Asset Type: Four-Wheeler (SUV)
+Asset ID: KA-05-HJ-9900
+Estimated Damage: 750000
+
+Other Mandatory Fields:
+Claim Type: Motor - Theft
+Attachments: police_fir.pdf, parking_cctv_request.pdf
+Initial Estimate: 750000

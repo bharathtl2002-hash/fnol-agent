@@ -1,0 +1,25 @@
+FIRST NOTICE OF LOSS (FNOL) - CLAIM FORM
+==========================================
+
+Policy Information:
+Policy Number: POL-2023-55190
+Policyholder Name: Priya Sharma
+
+Incident Information:
+Incident Date: 10-May-2026
+Location: Whitefield, Bengaluru
+
+Description: House flooding due to heavy rain. Multiple rooms damaged. Furniture and electronics destroyed.
+
+Involved Parties:
+Claimant: Priya Sharma
+Contact Details: 9988776655
+
+Asset Details:
+Asset Type: Residential Property
+Asset ID: PROP-BLR-00421
+Estimated Damage: 180000
+
+Other Mandatory Fields:
+Claim Type: Property - Water Damage
+Attachments: flood_photos.zip

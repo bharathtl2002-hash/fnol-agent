@@ -1,0 +1,29 @@
+FIRST NOTICE OF LOSS (FNOL) - CLAIM FORM
+==========================================
+
+Policy Information:
+Policy Number: POL-2025-33871
+Policyholder Name: Sneha Reddy
+Effective Dates: 01-Apr-2025 to 31-Mar-2026
+
+Incident Information:
+Incident Date: 12-May-2026
+Incident Time: 02:15 PM
+Location: Electronic City, Bengaluru
+
+Description: Rear-end collision at a traffic signal. Another vehicle ran into the back of my car causing significant damage to the boot, rear lights and bumper. Police report filed on the spot.
+
+Involved Parties:
+Claimant: Sneha Reddy
+Third Parties: Vikram Nair (KA-02-CD-5512)
+Contact Details: 9871234560 | sneha.reddy@mail.com
+
+Asset Details:
+Asset Type: Four-Wheeler (Sedan)
+Asset ID: KA-03-AB-7823
+Estimated Damage: 65000
+
+Other Mandatory Fields:
+Claim Type: Motor - Third Party Damage
+Attachments: police_report.pdf, damage_photos.jpg, repair_estimate.pdf
+Initial Estimate: 65000
